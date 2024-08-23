@@ -7,3 +7,5 @@ Here is the list of the projects along with its repositories.
   - [User Service](https://github.com/hdlproject/es-user-service)
 - Tech Infrastructure
   - [Kubernetes PoC](https://github.com/hdlproject/kubernetes-poc)
+- Data Structure & Algorithm (DSA)
+  - [Collection of DSA Explorations](https://github.com/hdlproject/dsa-exploration)
