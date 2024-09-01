@@ -5,6 +5,8 @@ Here is the list of the projects along with its repositories.
 - EdviSory (ES)
   - [Transaction Service](https://github.com/hdlproject/es-transaction-service)
   - [User Service](https://github.com/hdlproject/es-user-service)
+- Financial Technology (FinTech)
+  - [Trading Aggregator](https://github.com/hdlproject/trading-aggregator)
 - Tech Infrastructure
   - [Kubernetes Proof of Concept](https://github.com/hdlproject/kubernetes-poc)
 - Data Structure & Algorithm (DSA)
