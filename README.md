@@ -9,5 +9,6 @@ Here is the list of the projects along with its repositories.
   - [Trading Aggregator](https://github.com/hdlproject/trading-aggregator)
 - Tech Infrastructure
   - [Kubernetes Proof of Concept](https://github.com/hdlproject/kubernetes-poc)
+  - [Temporal.io Proof of Concept](https://github.com/hdlproject/temporalio-poc)
 - Data Structure & Algorithm (DSA)
   - [Collection of DSA Explorations](https://github.com/hdlproject/dsa-exploration)
