@@ -10,5 +10,6 @@ Here is the list of the projects along with its repositories.
 - Tech Infrastructure
   - [Kubernetes Proof of Concept](https://github.com/hdlproject/kubernetes-poc)
   - [Temporal.io Proof of Concept](https://github.com/hdlproject/temporalio-poc)
+  - [Ejabberd Proof of Concept](https://github.com/hdlproject/ejabberd-poc)
 - Data Structure & Algorithm (DSA)
   - [Collection of DSA Explorations](https://github.com/hdlproject/dsa-exploration)
