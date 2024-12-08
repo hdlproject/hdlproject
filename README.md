@@ -15,4 +15,5 @@ Here is the list of the projects along with its repositories.
   - [Ejabberd Proof of Concept](https://github.com/hdlproject/ejabberd-poc)
 - Data Structure & Algorithm (DSA)
   - [Collection of DSA Explorations](https://github.com/hdlproject/dsa-exploration)
+  - [Advent of Code 2022](https://github.com/hdlproject/advent-of-code-2022)
   - [Advent of Code 2023](https://github.com/hdlproject/advent-of-code-2023)
