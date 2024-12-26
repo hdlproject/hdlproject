@@ -17,3 +17,5 @@ Here is the list of the projects along with its repositories.
   - [Collection of DSA Explorations](https://github.com/hdlproject/dsa-exploration)
   - [Advent of Code 2022](https://github.com/hdlproject/advent-of-code-2022)
   - [Advent of Code 2023](https://github.com/hdlproject/advent-of-code-2023)
+- Web3
+  - [Election Web3](https://github.com/hdlproject/election-web3)
