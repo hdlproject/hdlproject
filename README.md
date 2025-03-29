@@ -8,7 +8,8 @@ Here is the list of the projects along with its repositories.
 - Financial Technology (FinTech)
   - [Trading Aggregator](https://github.com/hdlproject/trading-aggregator)
 - Internet of Things (IoT)
-  - [Server](https://github.com/hdlproject/iot-server) 
+  - [Server](https://github.com/hdlproject/iot-server)
+  - [Intel Galileo Proof of Concept](https://github.com/hdlproject/intel-galileo-poc) - WIP
 - Tech Infrastructure
   - [Kubernetes Proof of Concept](https://github.com/hdlproject/kubernetes-poc)
   - [Temporal.io Proof of Concept](https://github.com/hdlproject/temporalio-poc)
