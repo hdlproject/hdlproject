@@ -20,3 +20,5 @@ Here is the list of the projects along with its repositories.
   - [Advent of Code 2023](https://github.com/hdlproject/advent-of-code-2023)
 - Web3
   - [Election Web3](https://github.com/hdlproject/election-web3)
+- Artificial Intelligence
+  - [Letter Recognition](https://github.com/hdlproject/letter-recognition)
